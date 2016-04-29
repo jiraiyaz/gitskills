@@ -1,0 +1,6 @@
+{
+  "name": "怎么玩-Gitskills",
+  "tagline": "漂移E族",
+  "body": "###这次试试自己写的内容\r\n到这一步,其实已经很明确了, http://tiemaocsdn.github.io/ 这么一个域名，就指向了刚刚构建的这个站点/页面。 如果嫌弃这个域名太土了怎么办? \r\n\r\n其实很好办，花钱买个喜欢的域名映射过去就好了。 在根路径下创建一个文件, 文件名是大写的 \"CNAME\", 注意没有后缀。 因为tiemaocsdn 没有购买域名，那么就拿另一个来说事吧。\r\n\r\n类似下面这样：",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
